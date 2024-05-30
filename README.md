@@ -1,9 +1,9 @@
 # 網站連結  
 ## 後端  
-url: http://localhost:8181  
-swagger: http://localhost:8181/swagger-ui/index.html  
+url：http://localhost:8181  
+swagger：http://localhost:8181/swagger-ui/index.html  
 ## 前端  
-url: http://localhost:8080
+url：http://localhost:8080
 
 # 使用技術
 * 後端框架：Springboot
